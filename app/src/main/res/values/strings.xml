@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProjectStarter</string>
+    <string name="ceo_name">Nama CEO</string>
+    <string name="detail">Detail</string>
+</resources>
